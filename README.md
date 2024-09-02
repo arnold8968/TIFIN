@@ -91,6 +91,48 @@ ARK's main goal in investing in disruptive innovation is to focus on companies t
 
 
 
+Compare Retrieval Content:
+
+pdf_info: PDF source: Investment Case For Disruptive Innovation.pdf. Source from 17 pages. 
+ Content: ARK Seeks to Capture Disruptive Innovation
+The ARK Innovation ETF (ARKK) Aims to Offer
+1 Access to Growth  Investors who seek to access companies at the forefront of technology-enabled innovation, in some of the most  promising areas of the economy, with potential for long-term growth.
+2 Portfolio Diversification Potentially Suited for investors who like to diversify their existing portfolio with strategies that offer low correlation to a  number of core asset classes held in most investors’ portfolios.
+3 Moderate-to-High Risk-Reward Profile A constant focus on secular changes and disruptive innovation can compliment traditional strategies and core portfolios  May be suited for investors who have a moderate-to-high risk profile and intend to stay invested for the medium-to-long  term.
+The information herein is general in nature and should not be considered financial advice An investor should consult a financial professional regarding the investor’s specific situation Diversification does not assure a profit.
+
+pdf_info: PDF source: Investment Case For Disruptive Innovation.pdf. Source from 20 pages. 
+ Content: ARK Innovation ETFs
+Thematic Strategies Focused on Disruptive Innovation 
+ARKK ARK Innovation ETF
+ARKX ARK Space Exploration & Innovation ETF
+ARKW ARK Next Generation Internet ETF 
+PRNT The 3D Printing ETF
+ARKQ ARK Autonomous Tech & Robotics ETF 
+IZRL Israel Innovative Technology ETF
+ARKG ARK Genomic Revolution ETF 
+ARKF ARK Fintech Innovation ETF
+
+pdf_info: PDF source: Investment Case For Disruptive Innovation.pdf. Source from 2 pages. 
+ Content: D I S C L O S U R E
+Risks of Investing in Innovation
+Please note: Companies that ARK believes are capitalizing on disruptive innovation and developing technologies to displace older technologies or create new markets 
+may not in fact do so ARK aims to educate investors and seeks to size the potential investment opportunity, noting that risks and uncertainties may impact our 
+projections and research models Investors should use the content presented for informational purposes only, and be aware of market risk, disruptive innovation risk, 
+regulatory risk, and risks related to certain innovation areas 
+Please read risk disclosure carefully.
+RISK OF INVESTING IN INNOVATION
+RAPID PACE OF CHANGE
+REGULATORY HURDLES
+EXPOSURE ACROSS SECTORS AND MARKET CAP
+DISRUPTIVE  INNOVATION
+POLITICAL OR LEGAL PRESSURE
+UNCERTAINTY AND UNKNOWNS 
+COMPETITIVE LANDSCAPE
+à    Aim for a cross-sector understanding of technology    and combine top-down and bottom-up research.
+à    Aim to understand the regulatory, market, sector,         and company risks (See Disclosure Page)
+Sources: ARK Investment Management LLC, 2023.
+
 
 
 
