@@ -78,7 +78,6 @@ Question: What is the core objective of investing in disruptive innovation accor
 This question is summary and should be answered based on the entire text.
 
 My GT:
-
 The core objective of investing in disruptive innovation, according to ARK, is to capitalize on companies that are at the forefront of developing technologies capable of displacing older technologies or creating entirely new markets. ARK seeks to provide exposure to these innovative companies, aiming for long-term growth by investing in firms driving disruptive innovation across various sectors.
 
 Basic LLM:
