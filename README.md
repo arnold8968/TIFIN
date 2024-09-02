@@ -135,6 +135,39 @@ Sources: ARK Investment Management LLC, 2023.
 
 
 
+Rerank content:
 
+pdf_info: PDF source: Investment Case For Disruptive Innovation.pdf. Source from 17 pages. 
+Content: ARK Seeks to Capture Disruptive Innovation
+The ARK Innovation ETF (ARKK) Aims to Offer
+1 Access to Growth  Investors who seek to access companies at the forefront of technology-enabled innovation, in some of the most  promising areas of the economy, with potential for long-term growth.
+2 Portfolio Diversification Potentially Suited for investors who like to diversify their existing portfolio with strategies that offer low correlation to a  number of core asset classes held in most investors’ portfolios.
+3 Moderate-to-High Risk-Reward Profile A constant focus on secular changes and disruptive innovation can compliment traditional strategies and core portfolios  May be suited for investors who have a moderate-to-high risk profile and intend to stay invested for the medium-to-long  term.
+The information herein is general in nature and should not be considered financial advice An investor should consult a financial professional regarding the investor’s specific situation Diversification does not assure a profit.
+
+pdf_info: PDF source: Investment Case For Disruptive Innovation.pdf. Source from 18 pages. 
+Content: ARK Seeks to Capture Disruptive Innovation
+5 Reasons Investors Should Consider ARKK
+1 Exposure To Innovation: Aims for thematic multi-cap exposure to innovation across sectors ARK believes the securities held in 
+ARKK present the best risk-reward opportunities from ARK’s innovation-based themes.
+2 Growth Potential: Aims to capture long-term growth with low correlation of relative returns to traditional growth strategies and 
+negative correlation to value strategies 
+3 Tool For Diversification1: Offers a tool for diversification due to little overlap with traditional indices It can be a complement to 
+traditional value/growth strategies 
+4 Grounded In Research: Combines top-down and bottom-up research in its portfolio management to identify innovative companies 
+and convergence across markets.
+5 Cost Effective: Seeks to provide a lower cost alternative to mutual funds with true active management in an exchange traded fund 
+(ETF) that invests in rapidly moving themes.
+[1] Diversification does not assure a profit The information herein is general in nature and should not be considered financial advice An investor should consult a financial professional regarding the investor’s specific situation.
+
+pdf_info: PDF source: Investment Case For Disruptive Innovation.pdf. Source from 22 pages. 
+Content: Disclosures
+Investors  should  carefully  consider  the  investment  objectives  and  risks  as  well  as  charges  and  expenses  of  an  ARK  ETF  before  investing  This  and  other  information are contained in the ARK ETFs’ prospectuses, which may be obtained by visiting www.ark-funds.com The prospectus should be read carefully  before investing 
+Investing in securities involves risk and there's no guarantee of principal.
+Fund Risks: The principal risks of investing in the ARKK include: Equity Securities Risk The value of the equity securities the Fund holds may fall due to general market and economic conditions Foreign Securities Risk  Investments in the securities of foreign issuers involve risks beyond those associated with investments in U.S securities Health Care Sector Risk The health care sector may be adversely affected by government regulations  and government health care programs Communications Sector Risk Companies is this sector may be adversely affected by potential obsolescence of products/services, pricing competition, research and development costs,  substantial capital requirements and government regulation Information Technology Sector Risk Information technology companies face intense competition, both domestically and internationally, which may have an  adverse  effect  on  profit  margins  Additional  risks  of  investing  in  ARKK  include  equity,  market,  management  and  non-diversification  risks,  as  well  as  fluctuations  in  market  value  and  NAV  Disruptive  Innovation  Risk  Companies that ARK believes are capitalizing on disruptive innovation and developing technologies to displace older technologies or create new markets may not in fact do so Companies that initially develop a  novel  technology  may  not  be  able  to  capitalize  on  the  technology  Companies  that  develop  disruptive  technologies  may  face  political  or  legal  attacks  from  competitors,  industry  groups  or  local  and  national  governments  These  companies  may  also  be  exposed  to  risks  applicable  to  sectors  other  than  the  disruptive  innovation  theme  for  which  they  are  chosen,  and  the  securities  issued  by  these  companies  may  underperform the securities of other companies that are primarily focused on a particular theme 
+The Fund’s exposure to cryptocurrency may change over time and, accordingly, such exposure may not always be represented in the Fund’s portfolio Many significant aspects of the U.S federal income tax treatment of  investments in bitcoin are uncertain and an investment in bitcoin may produce income that is not treated as qualifying income for purposes of the income test applicable to regulated investment companies, such as the  Fund GBTC is expected to be treated as a grantor trust for U.S federal income tax purposes, and therefore an investment by the Fund in GBTC will generally be treated as a direct investment in bitcoin for such purposes See  ‘‘Taxes’’ in the Fund’s SAI for more information 
+An investment in an ETF is subject to risks and you can lose money on your investment in an ETF There can be no assurance that the ETF will achieve its investment objective The ETF’s portfolio is more volatile than broad  market averages Shares of ARKK are bought and sold at market price (not NAV) and are not individually redeemed from the ETF ETF shares may only be redeemed directly with the ETF at NAV by Authorized Participants, in  very large creation units There can be no guarantee that an active trading market for ETF shares will develop or be maintained, or that their listing will continue or remain unchanged Buying or selling ETF shares on an  exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns.
+Portfolio holdings will change and should not be considered as investment advice or a recommendation to buy, sell or hold any particular security Please visit www.ark-funds.com for the most current list of holdings for the  ARK ETFs.
+The information herein is general
 
 
