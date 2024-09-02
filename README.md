@@ -67,3 +67,33 @@ Benchmarking: The system was tested against 20 questions from Evaluation_Questio
 Evaluation Questions: The system's performance was benchmarked using the 20 provided questions, comparing the results of both baseline and advanced RAG methods.
 
 Performance Comparison: Documented the improvements achieved by the advanced methods over the baseline approach.
+
+
+
+# Analysis of Sample Outputs
+
+Example
+Question: What is the core objective of investing in disruptive innovation according to ARK?
+
+This question is summary and should be answered based on the entire text.
+
+My GT:
+
+The core objective of investing in disruptive innovation, according to ARK, is to capitalize on companies that are at the forefront of developing technologies capable of displacing older technologies or creating entirely new markets. ARK seeks to provide exposure to these innovative companies, aiming for long-term growth by investing in firms driving disruptive innovation across various sectors.
+
+Basic LLM:
+The core objective of investing in disruptive innovation according to ARK is to identify and capitalize on the potential of new technologies and business models that have the ability to transform entire industries and create significant value for investors. ARK's investment strategy is focused on identifying and investing in companies that are at the forefront of innovation and disruption, with the goal of generating long-term capital appreciation for its clients.
+
+RAG_LLM:
+The core objective of investing in disruptive innovation according to ARK is to offer investors access to companies at the forefront of technology-enabled innovation, in some of the most promising areas of the economy, with potential for long-term growth.
+
+RAG_Rerank:
+ARK's main goal in investing in disruptive innovation is to focus on companies that are creating new technologies or replacing outdated ones, with the hope of achieving long-term growth by supporting these leading innovators.
+
+
+
+
+
+
+
+
