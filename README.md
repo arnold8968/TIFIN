@@ -18,7 +18,7 @@ Chart Handling: Recognizing the potential issues with extracting text from chart
 Post-Processing: Implemented techniques to clean and refine the extracted text, ensuring the removal of any unwanted characters or extraction artifacts.
 
 
-2. Vector Database
+### 2. Vector Database
    
 Embedding Model: all-MiniLM-L6-v2
 
@@ -30,7 +30,7 @@ Vector Storage: The Chroma vector database was used to store these embeddings, f
 
 
 
-3. RAG_LLM
+### 3. RAG_LLM
 
 Effective prompt engineering was applied to ensure the model receives clear instructions, allowing it to think through the problem and break down complex tasks. This approach improves the quality of the generated responses.
 
@@ -48,7 +48,7 @@ Different Models
 
 - For better comparison, all outputs are saved into a dataset.
 
-Evaluation
+### 4.Evaluation
 
 
 Metrics Used:
@@ -62,7 +62,7 @@ Benchmarking: The system was tested against 20 questions from Evaluation_Questio
 
 
 
-Benchmarking
+### 5.Benchmarking
 
 Evaluation Questions: The system's performance was benchmarked using the 20 provided questions, comparing the results of both baseline and advanced RAG methods.
 
