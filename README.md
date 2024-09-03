@@ -72,7 +72,9 @@ Performance Comparison: Documented the improvements achieved by the advanced met
 
 # Analysis of Sample Outputs
 
-Result: The RAG_Rerank approach significantly enhanced the relevance of the retrieved content in response to the questions. By implementing reranking, the model was able to prioritize and select the most pertinent information from the initial retrieval set, leading to more accurate and contextually appropriate answers. This improvement in content relevance directly contributed to a noticeable increase in the overall accuracy of the generated responses compared to the baseline and standard RAG methods.
+ - Result: 
+
+The RAG_Rerank approach significantly enhanced the relevance of the retrieved content in response to the questions. By implementing reranking, the model was able to prioritize and select the most pertinent information from the initial retrieval set, leading to more accurate and contextually appropriate answers. This improvement in content relevance directly contributed to a noticeable increase in the overall accuracy of the generated responses compared to the baseline and standard RAG methods.
 
 Example
 Question: What is the core objective of investing in disruptive innovation according to ARK?
