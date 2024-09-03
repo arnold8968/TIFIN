@@ -13,7 +13,7 @@ Extract textual content from PDF documents while preserving the structure and qu
 
 Tools: Various Python libraries like pdfminer, PyMuPDF, and pdfplumber were evaluated to determine which tool best maintains text integrity.
 
-Chart Handling: Recognizing the potential issues with extracting text from charts and tables, layout analysis tools were employed to separate these elements from the main text. Although the process of using GPT to describe chart meanings and store them in a database was initiated, it remains incomplete.
+Chart Handling: Recognizing the challenges of extracting meaningful text from charts and tables, we employed layout analysis tools to separate these elements from the main text. The next step involves using GPT to interpret and describe the chart content, which will then be stored in a database. However, this task is still in progress and hasn't been completed yet.
 
 Post-Processing: Implemented techniques to clean and refine the extracted text, ensuring the removal of any unwanted characters or extraction artifacts.
 
@@ -71,6 +71,8 @@ Performance Comparison: Documented the improvements achieved by the advanced met
 
 
 # Analysis of Sample Outputs
+
+Result: The RAG_Rerank approach significantly enhanced the relevance of the retrieved content in response to the questions. By implementing reranking, the model was able to prioritize and select the most pertinent information from the initial retrieval set, leading to more accurate and contextually appropriate answers. This improvement in content relevance directly contributed to a noticeable increase in the overall accuracy of the generated responses compared to the baseline and standard RAG methods.
 
 Example
 Question: What is the core objective of investing in disruptive innovation according to ARK?
